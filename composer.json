@@ -1,5 +1,5 @@
 {
-    "name": "givorra/composer-library-template",
+    "name": "givorra/mycomposerlib",
     "description": "Template for publish your own lib",
     "keywords": ["template", "composer", "package"],
     "license": "MIT",
